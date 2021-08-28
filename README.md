@@ -20,17 +20,22 @@ to know how to write a script in python that would find out the following.
 
 * Total number of votes were 369,711
 * The votes in each county and their respective percentages
-  * ! imagelink that I need to make)
+  
+  
+  
+  ![county votes](https://github.com/HexHaunter/Election_Analysis/blob/main/Resources/county%20votes.png?raw=true")
 * The county with the most votes cast was Denver with 306,055 votes
 * Votes for each candidate and their respective percentages
-  * ! image
+   
+   
+   ![candidate results](https://github.com/HexHaunter/Election_Analysis/blob/main/Resources/candidate%20results.png?raw=true)
 * The winning candidate was Diana DeGette with 272,892 (73.8%) votes
 
 
 ## Audit Summary
 This script gives a clear and concise breakdown of the election, and
-produces a text document that outputs the results in a easy to read format.
-This script could be further moddified to expand to include the cadidate's
+produces a text document that outputs the results in an easy to read format.
+This script could be further modified to expand to include the candidate's
 political party, and could be scaled up to include larger lists of data
 for state or national elections, if the data is stored in a similar format.
 
