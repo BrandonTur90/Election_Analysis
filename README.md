@@ -16,7 +16,7 @@ to know how to write a script in python that would find out the following.
   8. Determine the county with the highest voter turnout
 
 
-##Audit Results
+## Audit Results
 
 * Total number of votes were 369,711
 * The votes in each county and their respective percentages
